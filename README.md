@@ -5,6 +5,7 @@ This simple program retrieves an image from a [MongoDB](https://www.mongodb.com/
 
 ## Author
 By [Stevan Cunningham](https://linkedin.com/in/stevancunningham)
+Found this little project on [Medium](https://medium.com/) by [Adam](https://medium.com/adam-on-software-engineering)!
 
 ## LICENSE
 [MIT](LICENSE)
